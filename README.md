@@ -45,18 +45,22 @@ Welcome to my profile!
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" **alt="VScode" width="40" height="40"/>
 </div> 
 
+---
+
   
-<!--
-**amaadioha/amaadioha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on dockerizing apps and deploying on k8s in AWS
+- 🌱 I’m currently learning k8s and securing k8s clusters
+- 👯 I’m looking to collaborate on multi-cloud, containers and k8s
+- 🤔 I’m looking for help with enterprise scale cluster deployments
+- 💬 Ask me about AWS, Azure, RHEL, Docker
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I loike traveling
+
+  
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amaadioha&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaadioha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
