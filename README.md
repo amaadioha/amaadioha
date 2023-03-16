@@ -47,17 +47,15 @@ Welcome to my profile!
 
 ---
 
-<--  
 Here are some ideas to get you started:
 - 🔭 I’m currently working on dockerizing apps and deploying on k8s in AWS and Azure
 - 🌱 I’m currently learning k8s and securing k8s clusters
 - 👯 I’m looking to collaborate on multi-cloud, containers and k8s
-- 🤔 I’m looking for help with enterprise scale cluster deployments
+- 🤔 I’m looking forward to discussing enterprise scale k8s cluster deployments
 - 💬 Ask me about AWS, Azure, RHEL, Docker
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I loike traveling
--->
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amaadioha&theme=dark&background=000000)](https://git.io/streak-stats)
