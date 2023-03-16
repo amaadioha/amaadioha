@@ -47,7 +47,7 @@ Welcome to my profile!
 
 ---
 
-  
+<--  
 Here are some ideas to get you started:
 - 🔭 I’m currently working on dockerizing apps and deploying on k8s in AWS and Azure
 - 🌱 I’m currently learning k8s and securing k8s clusters
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I loike traveling
-
+-->
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amaadioha&theme=dark&background=000000)](https://git.io/streak-stats)
