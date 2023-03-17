@@ -47,7 +47,7 @@ Welcome to my profile!
 
 ---
 <details>
-  <summary>Here are some ideas to get you started, click for more:
+  <summary>Here are some ideas to get you started, click for more:</summary>
 - 🔭 I’m currently working on dockerizing apps and deploying on **k8s** in AWS and Azure
 - 🌱 I’m currently deploying *containerize* workloads on k8s clusters and securing **k8s clusters**
 - 👯 I’m looking to collaborate on **multi-cloud**, containers and k8s
