@@ -46,8 +46,8 @@ Welcome to my profile!
 </div> 
 
 ---
-
-Here are some ideas to get you started:
+<details>
+  <summary>Here are some ideas to get you started, click for more:
 - 🔭 I’m currently working on dockerizing apps and deploying on **k8s** in AWS and Azure
 - 🌱 I’m currently deploying *containerize* workloads on k8s clusters and securing **k8s clusters**
 - 👯 I’m looking to collaborate on **multi-cloud**, containers and k8s
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ~~442.....~~
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling
+</details>  
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amaadioha&theme=dark&background=000000)](https://git.io/streak-stats)
