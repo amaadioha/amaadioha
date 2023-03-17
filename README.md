@@ -57,6 +57,10 @@ Welcome to my profile!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling
 </details>  
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=amaadioha&show_icons=true&theme=tokyonight" 
+/>
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amaadioha&theme=dark&background=000000)](https://git.io/streak-stats)
