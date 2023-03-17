@@ -49,11 +49,11 @@ Welcome to my profile!
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on dockerizing apps and deploying on **k8s** in AWS and Azure
-- 🌱 I’m currently deploying containerize workloads on k8s clusters and securing **k8s clusters**
+- 🌱 I’m currently deploying *containerize* workloads on k8s clusters and securing **k8s clusters**
 - 👯 I’m looking to collaborate on **multi-cloud**, containers and k8s
-- 🤔 I’m looking forward to discussing *enterprise* scale k8s cluster deployments
-- 💬 Ask me about AWS, Azure, RHEL, Docker
-- 📫 How to reach me: ...
+- 🤔 I’m looking forward to discussing **enterprise** scale k8s cluster deployments on public cloud
+- 💬 Ask me about AWS, Azure, RHEL, Docker.
+- 📫 How to reach me: ~~442.....~~
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling
   
