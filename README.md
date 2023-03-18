@@ -54,7 +54,7 @@ Welcome to my profile!
 - 💬 Ask me about AWS, Azure, RHEL, Docker and Kubernetes.
 - 📫 How to reach me: ~~442.....~~
 - 😄 Pronouns: he/him
-- ⚡ 
+- ⚡ Fun fact: I like traveling
 </details>  
 
 <img 
