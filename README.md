@@ -52,7 +52,7 @@ Welcome to my profile!
 - 🌱 I’m currently deploying *containerize* workloads on k8s clusters and securing **k8s clusters**
 - 👯 I’m looking to collaborate on **multi-cloud**, containers and k8s
 - 🤔 I’m looking forward to discussing **enterprise** scale k8s cluster deployments on public cloud
-- 💬 Ask me about AWS, Azure, RHEL, Docker.
+- 💬 Ask me about AWS, Azure, RHEL, Docker and Kubernetes.
 - 📫 How to reach me: ~~442.....~~
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling
