@@ -52,7 +52,7 @@ Welcome to my profile!
 - 👯 I’m looking to collaborate on **multi-cloud**, containers and k8s
 - 🤔 I’m looking forward to discussing **enterprise** scale k8s cluster deployments on public cloud
 - 💬 Ask me about AWS, Azure, RHEL, Docker and Kubernetes.
-- 📫 How to reach me: ~~442.....~~
+- 📫 How to reach me: ~~4.....~~
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling
 </details>  
