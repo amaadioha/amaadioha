@@ -44,7 +44,9 @@ Welcome to my profile!
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" **alt="VScode" width="40" height="40"/>
 </div> 
----
+
+<!--START_SECTION:activity-->  
+  ---
 <details>
   <summary>Here are some ideas to get you started, click for more:</summary>
 - 🔭 I’m currently working on dockerizing apps and deploying on **k8s** in AWS and Azure
@@ -56,7 +58,7 @@ Welcome to my profile!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like traveling :)
 </details>  
-
+<!--END_SECTION:activity-->
 <img 
    src="https://github-readme-stats.vercel.app/api?username=amaadioha&show_icons=true&theme=tokyonight" 
 />
