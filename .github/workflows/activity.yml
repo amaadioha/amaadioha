@@ -34,6 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.3.6
