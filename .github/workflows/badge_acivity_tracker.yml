@@ -1,4 +1,0 @@
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.3.6
-
-[![CI](https://github.com/amaadioha/amaadioha/actions/workflows/activity.yml/badge.svg)](https://github.com/amaadioha/amaadioha/actions/workflows/activity.yml)
