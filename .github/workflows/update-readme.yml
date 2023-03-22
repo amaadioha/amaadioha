@@ -15,3 +15,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+[![Update README](https://github.com/amaadioha/amaadioha/actions/workflows/update-readme.yml/badge.svg)](https://github.com/amaadioha/amaadioha/actions/workflows/update-readme.yml)
